@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content {
+    margin-left: 500px;
+    margin-top: 30px;
+    
+}
+.heading {
+    margin-left: 500px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-family: 'sans-serif';
+    
+}
+.main {
+    margin-left:450px;
+    margin-top: 50px;
+
+}
+.form input {
+    padding: 20px;
+    width: 370px;
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(29 161 242);
+    outline-style: none;
+    padding-bottom: 25px;
+
+}
+.btn button {
+   margin-left: 5px; 
+   margin-top: 15px;
+   padding: 15px;
+   width: 400px;
+   border-radius:30px ; 
+   border: none;
+   outline-style:none ;
+   color: white;
+   background-color: rgb(29 161 242);
+   opacity: .5;
+   margin-top: 10px;
+   font-size: 15px;
+
+}
+.oublier {
+    margin-left: 15px;
+    margin-top: 30px;
+}
+p a {
+    color: rgb(29 161 242);
+}
+.sinscrire{
+    margin-left: 250px;
+    margin-top: -15px;
+}
